@@ -1,0 +1,7 @@
+# imdb_movies_analysis/requirements.txt
+
+pandas
+numpy
+seaborn
+matplotlib
+plotly
